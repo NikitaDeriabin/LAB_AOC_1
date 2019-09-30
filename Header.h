@@ -25,5 +25,3 @@ template<typename T>
 double GetTimeOperationDiv(T a);
 void Result();
 void GetPercent();
-
-#pragma once
